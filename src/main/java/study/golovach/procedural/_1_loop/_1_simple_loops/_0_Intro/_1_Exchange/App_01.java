@@ -1,4 +1,4 @@
-package Study.Golovach.Procedural._0_Intro._1_Exchange;
+package study.golovach.procedural._1_loop._1_simple_loops._0_Intro._1_Exchange;
 
 //Идиома - обмен значений переменных без использования временной переменной
 //Работает только с целыми числами - в вещественных будут проблемы с округлением

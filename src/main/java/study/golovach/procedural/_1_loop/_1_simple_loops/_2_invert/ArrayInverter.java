@@ -1,4 +1,4 @@
-package Study.Golovach.Procedural._1_Simple_Loops._2_invert;
+package study.golovach.procedural._1_loop._1_simple_loops._2_invert;
 
 //код который инвертирует наш массив
 

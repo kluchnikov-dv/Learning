@@ -1,4 +1,4 @@
-package Study;
+package study;
 
 
 public class MainApp {

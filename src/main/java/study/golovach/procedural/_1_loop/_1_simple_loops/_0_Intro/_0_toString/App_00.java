@@ -1,4 +1,4 @@
-package Study.Golovach.Procedural._0_Intro._0_toString;
+package study.golovach.procedural._1_loop._1_simple_loops._0_Intro._0_toString;
 
 import java.util.Arrays;
 //Все типы в Java делятся на примитивные и ссылочные

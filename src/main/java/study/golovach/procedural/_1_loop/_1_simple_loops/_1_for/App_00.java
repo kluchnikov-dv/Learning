@@ -1,4 +1,4 @@
-package Study.Golovach.Procedural._1_Simple_Loops._1_for;
+package study.golovach.procedural._1_loop._1_simple_loops._1_for;
 
 //цикл for
 
